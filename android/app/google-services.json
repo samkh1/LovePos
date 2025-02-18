@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282766500237",
+    "project_id": "lovepo-11451",
+    "storage_bucket": "lovepo-11451.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282766500237:android:11d3216105fe4b8b429dc4",
+        "android_client_info": {
+          "package_name": "com.example.love_postion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOKMMA1eJmRivAGWYnQnhi7gl1ISHgsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
